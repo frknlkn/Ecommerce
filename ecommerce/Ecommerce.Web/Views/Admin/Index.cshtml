@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Ecommerce.Model.Gender>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container pb-5">
+
+    <h2>Cinsiyet Listesi</h2>
+    <hr/>
+    <p>
+        @Html.ActionLink("Yeni Kategori", "Create",null,new {@class="btn btn-primary"} )
+    </p>
+    <hr/>
+    <div class="table-responsive">
+
+        <table class="table table-bordered table-striped">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th style="width: 135px;"></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>

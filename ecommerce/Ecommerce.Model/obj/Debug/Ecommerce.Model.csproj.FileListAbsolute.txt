@@ -1,0 +1,11 @@
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\bin\Debug\Ecommerce.Model.dll.config
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\bin\Debug\Ecommerce.Model.dll
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\bin\Debug\Ecommerce.Model.pdb
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\bin\Debug\EntityFramework.dll
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\bin\Debug\EntityFramework.xml
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\obj\Debug\Ecommerce.Model.csprojAssemblyReference.cache
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\obj\Debug\Ecommerce.Model.csproj.CopyComplete
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\obj\Debug\Ecommerce.Model.dll
+E:\Furkan\Best Projects\ecommerce\Ecommerce.Model\obj\Debug\Ecommerce.Model.pdb
